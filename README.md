@@ -1,4 +1,6 @@
-![](https://c.tenor.com/YsOvD-moJhMAAAAd/benimaru-shinmon-fire-force.gif)
+<p align="center">
+  <img src="https://c.tenor.com/YsOvD-moJhMAAAAd/benimaru-shinmon-fire-force.gif" />
+</p>
 <h1 align="center"> Welcome to my GitHub Profile ✨ </h1>
 
 
