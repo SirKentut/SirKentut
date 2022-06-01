@@ -11,4 +11,4 @@
 - 📫 How to reach me: pierreharbin@gmail.com
 - ⚡ Fun fact: ...
 </p>
-<h3 align="center"> Here's some of the languages I'm learning and working with 🪐</h3>
+<h3 align="center"><b> Here's some of the languages I'm learning and working with 🪐</b></h3>
