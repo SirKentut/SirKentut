@@ -12,3 +12,4 @@
 - ⚡ Fun fact: ...
 </p>
 <h3 align="center"><b> Here's some of the languages I'm learning and working with 🪐</b></h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SirKentut&theme=maroongold)](https://git.io/streak-stats)
