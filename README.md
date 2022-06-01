@@ -71,8 +71,8 @@
 <a href="https://www.ethereum.org/">
 <img alt="Ethereum URL" src="https://cdn.svgporn.com/logos/ethereum-color.svg" style="width: 3%">
 </a>   
-<a href="https://www.ethereum.org/">
-<img alt="Ethereum URL" src="https://cdn.svgporn.com/logos/cardano-icon.svg" style="width: 5%">
+<a href="https://cardano.org/">
+<img alt="Cardano URL" src="https://cdn.svgporn.com/logos/cardano-icon.svg" style="width: 5%">
 </a>  
 </p>  
   
