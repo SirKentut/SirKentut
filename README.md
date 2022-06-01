@@ -66,4 +66,15 @@
 </p>
 <p align="center">🌴🌴🌴🌴🌴</p>
 
+<h1 align="center">Communities I'm a part of 🚀</h>
+<p align="center">
+<a href="https://www.ethereum.org/">
+<img alt="Ethereum URL" src="https://cdn.svgporn.com/logos/ethereum-color.svg" style="width: 3%">
+</a>   
+<a href="https://www.ethereum.org/">
+<img alt="Ethereum URL" src="https://cdn.svgporn.com/logos/cardano-icon.svg" style="width: 5%">
+</a>  
+</p>  
+  
+
 
