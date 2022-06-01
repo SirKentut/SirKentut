@@ -14,7 +14,7 @@
 <p align="center">🌴🌴🌴🌴🌴</p>
 
 
-<h3 align="center"><b> Here's some of the languages I'm learning and working with 🪐</b></h3>
+<h3 align="center"><b> Here's some of the languages and frameworks I'm learning and working with 🪐</b></h3>
 <!---some stuff i wanted to comment--->
 <p align="center">
 
@@ -46,7 +46,11 @@
 </a> 
 <a href="https://threejs.org/">
 <img alt="ThreeJS URL" src="https://cdn.svgporn.com/logos/threejs.svg" style="width: 5%">
+</a>
+<a href="https://web3js.readthedocs.io/en/v1.7.3/web3.html">
+<img alt="Web3Js URL" src="https://cdn.svgporn.com/logos/web3js.svg" style="width: 5%">
 </a>  
+ 
   
 </p>
 <!---some stuff i wanted to comment--->
