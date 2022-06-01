@@ -12,11 +12,51 @@
 - ⚡ Fun fact: ...
 </p>
 <p align="center">🌴🌴🌴🌴🌴</p>
+
+
 <h3 align="center"><b> Here's some of the languages I'm learning and working with 🪐</b></h3>
+<!---some stuff i wanted to comment--->
+<p align="center">
+
+<a href="https://www.java.com/">
+<img alt="Java URL" src="https://cdn.svgporn.com/logos/java.svg" style="width: 5%">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img alt="JavaScript URL" src="https://cdn.svgporn.com/logos/javascript.svg" style="width: 5%">
+</a>
+<a href="http://www.w3.org/TR/html5/">
+<img alt="HTML5 URL" src="https://cdn.svgporn.com/logos/html-5.svg" style="width: 4%">
+</a>
+<a href="http://www.w3.org/TR/CSS/">
+<img alt="CSS URL" src="https://cdn.svgporn.com/logos/css-3.svg" style="width: 4%">
+</a>  
+<a href="http://www.rust-lang.org/">
+<img alt="Rust URL" src="https://cdn.svgporn.com/logos/rust.svg" style="width: 5%">
+</a>  
+
+<a href="https://flutter.dev/">
+<img alt="Flutter URL" src="https://cdn.svgporn.com/logos/flutter.svg" style="width: 4%">
+</a>
+
+<a href="https://www.solidjs.com/">
+<img alt="SolidJs URL" src="https://cdn.svgporn.com/logos/solidjs-icon.svg" style="width: 5%">
+</a>
+<a href="https://soliditylang.org/">
+<img alt="Solidity URL" src="https://cdn.svgporn.com/logos/solidity.svg" style="width: 3%">
+</a> 
+<a href="https://threejs.org/">
+<img alt="ThreeJS URL" src="https://cdn.svgporn.com/logos/threejs.svg" style="width: 5%">
+</a>  
+  
+</p>
+<!---some stuff i wanted to comment--->
+
+
+
 <h2 align="center"> Contribution Stats 🤩 </h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SirKentut&theme=material-palenight&hide_border=true&fire=8800B4&background=000000)](https://git.io/streak-stats" />
 </p>
 <p align="center">🌴🌴🌴🌴🌴</p>
-<!-- Actual text -->
+
 
