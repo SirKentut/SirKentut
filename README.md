@@ -49,6 +49,9 @@
 </a>
 <a href="https://web3js.readthedocs.io/en/v1.7.3/web3.html">
 <img alt="Web3Js URL" src="https://cdn.svgporn.com/logos/web3js.svg" style="width: 5%">
+</a>
+<a href="https://trufflesuite.com/">
+<img alt="Truffle URL" src="https://cdn.svgporn.com/logos/truffle-icon.svg" style="width: 5%">
 </a>  
  
   
