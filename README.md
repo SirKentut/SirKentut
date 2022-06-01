@@ -11,11 +11,6 @@
 - 📫 How to reach me: pierreharbin@gmail.com
 - ⚡ Fun fact: ...  
 </p>
-<p align="center">
-  <img src="https://discord-readme-badge.vercel.app/api?id=senior potato#5517" />
-  </p>
-<p align="center">🌴🌴🌴🌴🌴</p>
-
 
 <h3 align="center"><b> Here's some of the languages and frameworks I'm learning and working with 🪐</b></h3>
 <!---some stuff i wanted to comment--->
