@@ -6,10 +6,10 @@
 
 - 🔭 I’m currently working on Trilinkt, Politifi, Aurora, and Project Hive
 - 🌱 I’m currently learning Solidity, Rust, Web3.js, and Quantum Computation 🖥️
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on any project just contact me 😄
+- 💬 Ask me about Machine Learning, Artificial Intelligence, and the Blockchain
 - 📫 How to reach me: pierreharbin@gmail.com
-- ⚡ Fun fact: ...  
+- ⚡ Fun fact: I speak multiple languages and have traveled every continent excecpt Africa and Antartica 
 </p>
 
 <h3 align="center"><b> Here's some of the languages and frameworks I'm learning and working with 🪐</b></h3>
