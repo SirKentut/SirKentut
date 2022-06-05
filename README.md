@@ -73,7 +73,9 @@
 <img alt="Cardano URL" src="https://cdn.svgporn.com/logos/cardano-icon.svg" style="width: 5%">
 </a>  
 </p>  
-<p align="center"><img src="https://media3.giphy.com/media/YqhIK6Gbor6CLeloBq/giphy.gif?cid=ecf05e47r0v6h14n3xt94l4q5ts76089zpnphfhyelx3p8mx&rid=giphy.gif&ct=g"/></p>
+<p align="center">
+  <img src="https://media3.giphy.com/media/YqhIK6Gbor6CLeloBq/giphy.gif?cid=ecf05e47r0v6h14n3xt94l4q5ts76089zpnphfhyelx3p8mx&rid=giphy.gif&ct=g" />
+</p>
   
 
 
