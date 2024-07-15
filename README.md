@@ -1,6 +1,6 @@
 <p align="center">
 <div align="center">
-  <img src="https://media1.tenor.com/m/6NCQTCN4COYAAAAC/sukuna-jogo.gif" width="100%">
+  <img src="https://media1.tenor.com/m/6NCQTCN4COYAAAAd/sukuna-jogo.gif" width="100%">
 </div>
 
 </p>
