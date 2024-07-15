@@ -1,5 +1,6 @@
 <p align="center">
-  <img src=https://media1.tenor.com/m/6NCQTCN4COYAAAAC/sukuna-jogo.gif />
+<img src="https://media1.tenor.com/m/6NCQTCN4COYAAAAC/sukuna-jogo.gif" style="width: 100%;" />
+
 </p>
 <h1 align="center"> Welcome </h1>
 
