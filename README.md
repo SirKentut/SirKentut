@@ -19,6 +19,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SirKentut&theme=material-palenight&hide_border=true&fire=8800B4&background=000000)](https://git.io/streak-stats" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <p align="center">🌴🌴🌴🌴🌴</p>
 
   
