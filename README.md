@@ -1,6 +1,6 @@
 <p align="center">
 <div align="center">
-  <img src="https://media1.tenor.com/m/C9x56kWPx2oAAAAC/chainsaw-man-denji.gif" width="100%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png" width="100%">
 </div>
 
 </p>
