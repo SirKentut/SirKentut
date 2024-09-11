@@ -1,6 +1,6 @@
 <p align="center">
 <div align="center">
-  <img src="https://media1.tenor.com/m/Jvot96riLf4AAAAd/jujutsu-kaisen-shibuya-arc-sukuna-shibuya-arc.gif" width="150%">
+  <img src="https://media1.tenor.com/m/Jvot96riLf4AAAAd/jujutsu-kaisen-shibuya-arc-sukuna-shibuya-arc.gif" width="100%">
 </div>
 
 </p>
